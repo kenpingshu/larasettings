@@ -1,0 +1,15 @@
+{
+    "name": "kenpingshu/larasettings",
+    "description": "Easy to setup your application's settings and expand",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ken Hsu",
+            "email": "knel.tw@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^9.3"
+    }
+}
